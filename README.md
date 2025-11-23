@@ -1,4 +1,4 @@
-# Pneumonia-Detection---CNN
+# Pneumonia-Detection-CNN
 The notebook builds an end‑to‑end LSTM model to forecast stock closing prices (AAPL) from historical data. It downloads daily prices, prepares a supervised learning dataset with sliding 60‑day windows, trains a stacked LSTM network, and uses the trained model to predict and inverse‑scale future prices, achieving low training and validation loss on the test period.
 
 # Objective and Data
